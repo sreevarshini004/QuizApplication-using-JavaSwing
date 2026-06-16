@@ -1,18 +1,39 @@
-## Getting Started
+# Quiz Application
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A desktop quiz application built using Java Swing.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+* Multiple-choice questions
+* Timer for each question
+* Question randomization
+* Score tracking
+* High score saving
+* Answer review screen
+* Restart functionality
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Java
+* Swing
+* Object-Oriented Programming (OOP)
+* File Handling
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## How to Run
 
-## Dependency Management
+1. Clone the repository
+2. Open the project in VS Code
+3. Run `App.java`
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Project Structure
+
+* `src/` - Source code
+* `model/` - Question model
+* `ui/` - User interface screens and styling
+
+## Future Improvements
+
+* Progress bar
+* Dark mode
+* Question categories
+* Statistics dashboard
